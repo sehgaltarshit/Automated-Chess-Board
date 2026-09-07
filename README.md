@@ -1,2 +1,3 @@
 Hi, this repo contains the demo video, MATLAB simualtion code along with final presentation of the automated chess board on which I worked on as a part of course project of "Design of Mechatronics System".
 The project did not end up as a fully functional project, and just shows the proof of concept, due to time constraints on the project duration
+Link to video: https://drive.google.com/file/d/1jK6iLsa2gvCrAFrJVTlPRvRbn9ZFbL5b/view?usp=sharing
